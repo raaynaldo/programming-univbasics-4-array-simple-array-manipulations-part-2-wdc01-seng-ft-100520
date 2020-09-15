@@ -3,5 +3,5 @@ def using_concat(first, second)
 end
 
 def using_inser(first, second)
- fisrt.insert(second)
+ fisrt.insert(4, second)
 end
