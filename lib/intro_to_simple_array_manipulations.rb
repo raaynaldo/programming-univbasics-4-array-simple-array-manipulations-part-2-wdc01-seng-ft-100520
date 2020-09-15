@@ -3,3 +3,6 @@ def using_concat(first, second)
 end
 
 def using_inser(first, second)
+ fisrt.insert(second)
+ end
+ 
